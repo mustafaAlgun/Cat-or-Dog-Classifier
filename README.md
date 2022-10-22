@@ -1,3 +1,7 @@
+
+## Cat or Dog Classifier
+
+The model deployed can be found in this link --> https://huggingface.co/spaces/SonOfGaia/Cat-Dog-Demo
 ---
 title: Cat-Dog-Demo
 emoji: 🐢
@@ -9,3 +13,4 @@ app_file: app.py
 pinned: false
 license: apache-2.0
 ---
+![](https://github.com/mustafaAlgun/Cat-or-Dog-Classifier/blob/main/demo_app_gif.gif)
